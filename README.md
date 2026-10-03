@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of hamcq/flarum-ext-auth-wechat.** Not for installation: use [Packagist](https://packagist.org/packages/hamcq/flarum-ext-auth-wechat) or the [upstream repository](https://github.com/HamCQ/flarum-ext-auth-wechat).
 
-**0** versions archived · Latest: [`1.2`](https://github.com/flarchive/hamcq-flarum-ext-auth-wechat/tree/archive/v1.2) · License: `MIT` · Flarum: `^1.0.0`
+**47** versions archived · Latest: [`1.2`](https://github.com/flarchive/hamcq-flarum-ext-auth-wechat/tree/archive/v1.2) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-08-17 | `^1.0.0` | [Browse](https://github.com/flarchive/hamcq-flarum-ext-auth-wechat/tree/archive/v1.0.0) |
+| `1.0.1` | 2022-08-18 | `^1.0.0` | [Browse](https://github.com/flarchive/hamcq-flarum-ext-auth-wechat/tree/archive/v1.0.1) |
+| `1.0.10` | 2022-08-24 | `^1.0.0` | [Browse](https://github.com/flarchive/hamcq-flarum-ext-auth-wechat/tree/archive/v1.0.10) |
+| `1.0.11` | 2022-08-24 | `^1.0.0` | [Browse](https://github.com/flarchive/hamcq-flarum-ext-auth-wechat/tree/archive/v1.0.11) |
+| `1.0.2` | 2022-08-18 | `^1.0.0` | [Browse](https://github.com/flarchive/hamcq-flarum-ext-auth-wechat/tree/archive/v1.0.2) |
+| `1.0.3` | 2022-08-18 | `^1.0.0` | [Browse](https://github.com/flarchive/hamcq-flarum-ext-auth-wechat/tree/archive/v1.0.3) |
+| `1.0.3.1` | 2022-08-18 | `^1.0.0` | [Browse](https://github.com/flarchive/hamcq-flarum-ext-auth-wechat/tree/archive/v1.0.3.1) |
+| `1.0.3.10` | 2022-08-19 | `^1.0.0` | [Browse](https://github.com/flarchive/hamcq-flarum-ext-auth-wechat/tree/archive/v1.0.3.10) |
+| `1.0.3.11` | 2022-08-19 | `^1.0.0` | [Browse](https://github.com/flarchive/hamcq-flarum-ext-auth-wechat/tree/archive/v1.0.3.11) |
+| `1.0.3.12` | 2022-08-19 | `^1.0.0` | [Browse](https://github.com/flarchive/hamcq-flarum-ext-auth-wechat/tree/archive/v1.0.3.12) |
+
+[View all 47 versions](https://github.com/flarchive/hamcq-flarum-ext-auth-wechat/tags)
 
 Catalog entry: [packages/hamcq-flarum-ext-auth-wechat.json](https://github.com/flarchive/archive-index/blob/main/packages/hamcq-flarum-ext-auth-wechat.json)
 
